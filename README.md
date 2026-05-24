@@ -61,7 +61,7 @@ Integrated standard web crawling APIs. Implemented a robust `except` trap so tha
 ## 📁 Links & Submissions
 
 * **Google Colab Notebook:** [https://colab.research.google.com/drive/1zc4ND7UcdU4VtG47Bu2JNcQuEmZMxOWT?usp=sharing]
-* **GitHub Repository:** [rayhan-khan-dev/Multi-Tool-AI-Agent]
+* **GitHub Repository:** [https://github.com/rayhan-khan-dev/Multi-Tool-AI-Agent]
 
 ---
 Developed by **Md Rayhan Khan
